@@ -20,7 +20,7 @@
 ### 🚀 Featured Projects
 
 - [🎬 AI Video Script Generator](https://github.com/mahmoudali002/ai-video-script-generator) – Create viral video scripts using storytelling + Gemini API  
-- [🖼️ AI Image Prompt Lab](https://github.com/...) – Custom prompt testing tool for Stable Diffusion & Midjourney  
+- [🖼️ AI Image Prompt Lab]([https://github.com/...](https://github.com/Mahmoudali002/AI-Image-Prompt-Lab)) – Custom prompt testing tool for Stable Diffusion & Midjourney  
 - [🔐 Ethical Prompt Validator](https://github.com/...) – Secure & filtered prompt generation with AI ethics in mind  
 
 ---
